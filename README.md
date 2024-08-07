@@ -1,0 +1,1 @@
+# Sanrio-qr-code
